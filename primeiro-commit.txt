@@ -1,2 +1,3 @@
 TESTANDO O COMMIT TESTE
-TESTANDO PELA SEGUNDA VEZ
+TESTANDO PELA SEGUNDA VEZ"alterei meu arquivo pelo cmd direto do windows" 
+"alterei meu arquivo pelo cmd direto do windows" 
